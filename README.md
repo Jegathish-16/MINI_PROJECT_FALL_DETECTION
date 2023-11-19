@@ -236,7 +236,7 @@ void send_event(const char *event)
 }
 
 ```
-GPS MODULE:
+LSTM:
 ```
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import LSTM, Dense
